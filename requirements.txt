@@ -1,0 +1,22 @@
+# Core LangChain and LangGraph
+langchain>=0.1.13
+langgraph>=0.0.38
+
+# langgraph==0.0.12
+requests==2.31.0
+python-dotenv==1.0.0  # Optional (for .env secrets)
+
+# LLM (OpenAI)
+openai>=1.10.0
+
+# Vector store for future use (optional)
+faiss-cpu>=1.7.4
+
+# HTTP requests for NewsAPI
+requests>=2.31.0
+
+# Typing support (if needed for static analysis)
+typing-extensions>=4.5.0
+
+# Environment variable loading (optional but useful)
+python-dotenv>=1.0.1

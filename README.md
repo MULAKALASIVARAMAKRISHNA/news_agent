@@ -204,7 +204,8 @@ See Results:
 Recommendations show up below, with summaries and why they match your topic.
 If something goes wrong (e.g., bad API key), you’ll see an error message in red.
 
-![image](https://github.com/user-attachments/assets/106888f0-414d-4df9-9965-47d083b1cb69)
+![image](https://github.com/user-attachments/assets/47f15aa6-c92f-4edd-a4ed-e04b6cb6cf99)
+
 ![image](https://github.com/user-attachments/assets/142c6ad5-3063-42a7-adec-2c8eee841835)
 
 
